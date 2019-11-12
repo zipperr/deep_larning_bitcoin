@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/unamu/Desktop/git/deep-learning-bitcoin/model/model.ckpt"
+all_model_checkpoint_paths: "/Users/unamu/Desktop/git/deep-learning-bitcoin/model/model.ckpt"
